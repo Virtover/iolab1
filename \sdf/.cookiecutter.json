@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/workspaces/iolab1",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Claudio Jolowicz",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "mail@claudiojolowicz.com",
+  "friendly_name": "\\Sdf",
+  "github_user": "cjolowicz",
+  "license": "MIT",
+  "package_name": "sdfd",
+  "project_name": "\\sdf",
+  "version": "0.0.0"
+}
